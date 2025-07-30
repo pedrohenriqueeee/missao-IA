@@ -16,12 +16,15 @@ body {
     min-height: 100vh;
 }
 
-.caixa-principal{
-    background-color: var(--cor-principal);
-    width: 90%;
-    max-width: 600px;
-    text-align: center;
-    padding: 20px;
+.caixa-perguntas {
+    background-color: white;
+    color: black;
+    padding: 15px 20px;
+    margin: 20px auto;
+    border-radius: 20px; /* deixa o balão arredondado */
+    max-width: 90%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* sombra leve para dar destaque */
+    font-size: 1.1rem;
 }
 
 h1{
