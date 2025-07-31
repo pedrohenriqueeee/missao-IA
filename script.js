@@ -22,9 +22,9 @@ const perguntas = [
         enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
         alternativas: [
             {
-                texto: " Criação do Basquete
+                texto: "
 Criado em 1891 por James Naismith, um professor canadense nos EUA.
-A ideia era um esporte indoor para o inverno; usava-se uma bola de futebol e cestas de pêssego.
+A ideia era um esporte indoor para o inverno; usava-se uma bola de futebol e cestas de pêssego".
 
 
                 afirmacao: "afirmação"
