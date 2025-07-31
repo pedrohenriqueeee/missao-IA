@@ -1,29 +1,29 @@
-.assustador {
-    border: 2px solid #d9534f;
-    background-color: #fcebea;
-    color: #a94442;
-    border-radius: 30px; /* Mais arredondado */
-    padding: 10px 20px;
-    margin: 5px;
-    cursor: pointer;
-    transition: transform 0.2s;
+:root{
+    --cor-fundo: #01080E ;
+    --cor-principal: #0B0D20 ;
+    --cor-secundaria: #212333; 
+    --cor-destaque: #2BDEFD;
+    --cor-texto: #D7F9FF;
+
 }
 
-.assustador:hover {
-    transform: scale(1.05);
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
-.maravilhoso {
-    border: 2px solid #5cb85c;
-    background-color: #e8f5e9;
-    color: #3c763d;
-    border-radius: 30px; /* Mais arredondado */
-    padding: 10px 20px;
-    margin: 5px;
-    cursor: pointer;
-    transition: transform 0.2s;
+.caixa-principal{
+    background-color: var(--cor-principal);
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;
 }
 
-.maravilhoso:hover {
-    transform: scale(1.05);
+h1{
+    color: var(--cor-destaque);
 }
