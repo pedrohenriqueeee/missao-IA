@@ -40,7 +40,7 @@ const perguntas = [
                 afirmacao: "afirmação"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Passes: Passar a bola entre os companheiros para avançar e criar chances.",
                 afirmacao: "afirmação"
             }
         ]
