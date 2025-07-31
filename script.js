@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "O basquete foi criado em 1891 por James Naismith nos EUA. Começou como um jogo indoor com cestas de pêssego. Com o tempo, cresceu e se tornou um dos esportes mais populares do mundo, com destaque para a NBA e estrelas como Michael Jordan, Kobe Bryant e LeBron James",
         alternativas: [
             {
-                texto: "Como Jogar Basquete: O basquete é jogado por dois times de cinco jogadores cada",
+                texto: "Como Jogar Basquete: O basquete é jogado por dois times de cinco jogadores cada.",
                
                 afirmacao: "afirmação"
             },
             {
-                texto: "Objetivo do Jogo: Marcar pontos arremessando a bola dentro da cesta adversária",
+                texto: "Objetivo do Jogo: Marcar pontos arremessando a bola dentro da cesta adversária.",
                 afirmacao: "afirmação"
             }
         ]
@@ -36,7 +36,7 @@ const perguntas = [
         enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
         alternativas: [
             {
-                texto: "Drible: Jogadores precisam quicar a bola no chão para se movimentar com ela",
+                texto: "Drible: Jogadores precisam quicar a bola no chão para se movimentar com ela.",
                 afirmacao: "afirmação"
             },
             {
