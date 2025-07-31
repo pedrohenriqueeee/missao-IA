@@ -22,7 +22,7 @@ const perguntas = [
         enunciado: "O basquete foi criado em 1891 por James Naismith nos EUA. Começou como um jogo indoor com cestas de pêssego. Com o tempo, cresceu e se tornou um dos esportes mais populares do mundo, com destaque para a NBA e estrelas como Michael Jordan, Kobe Bryant e LeBron James",
         alternativas: [
             {
-                texto:"Origem: Criado em 1891 por James Naismith nos Estados Unidos",
+                texto: "Como Jogar Basquete:O basquete é jogado por dois times de cinco jogadores cada",
                
                 afirmacao: "afirmação"
             },
