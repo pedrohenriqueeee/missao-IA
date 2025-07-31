@@ -1,10 +1,9 @@
-:root{
-    --cor-fundo: #01080E ;
-    --cor-principal: #0B0D20 ;
+:root {
+    --cor-fundo: #01080E;
+    --cor-principal: #0B0D20;
     --cor-secundaria: #212333; 
     --cor-destaque: #1900f7;
     --cor-texto: #D7F9FF;
-
 }
 
 body {
@@ -16,7 +15,7 @@ body {
     min-height: 100vh;
 }
 
-.caixa-principal{
+.caixa-principal {
     background-color: var(--cor-principal);
     width: 90%;
     max-width: 600px;
@@ -24,6 +23,38 @@ body {
     padding: 20px;
 }
 
-h1{
+h1 {
     color: var(--cor-destaque);
+}
+
+/* ⬇️ Adicione esse trecho no final do seu style.css */
+
+.assustador {
+    border: 2px solid #d9534f;
+    background-color: #fcebea;
+    color: #a94442;
+    border-radius: 12px;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.assustador:hover {
+    transform: scale(1.05);
+}
+
+.maravilhoso {
+    border: 2px solid #5cb85c;
+    background-color: #e8f5e9;
+    color: #3c763d;
+    border-radius: 12px;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.maravilhoso:hover {
+    transform: scale(1.05);
 }
