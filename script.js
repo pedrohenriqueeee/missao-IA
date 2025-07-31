@@ -53,7 +53,7 @@ const perguntas = [
                 afirmacao: "afirmação"
             },
             {
-                texto: "Defesa: Tentar impedir o adversário de marcar, roubando a bola ou bloqueando arremessos..",
+                texto: "Defesa: Tentar impedir o adversário de marcar, roubando a bola ou bloqueando arremessos.",
                 afirmacao: "afirmação"
             }
         ]
@@ -62,7 +62,7 @@ const perguntas = [
         enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
         alternativas: [
             {
-                texto: "Regras de Faltas: Jogadores não podem empurrar, segurar ou cometer infrações físicas; faltas acumulam.",
+                texto: "Regras de Faltas: Jogadores não podem empurrar, segurar ou cometer infrações físicas, faltas acumulam.",
                 afirmacao: "afirmação"
             },
             {
