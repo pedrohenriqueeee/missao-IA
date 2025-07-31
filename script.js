@@ -49,7 +49,7 @@ const perguntas = [
         enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: " Tipos de Arremesso: Lance livre (1 ponto), arremesso dentro da linha de 3 (2 pontos) e fora da linha de 3 (3 pontos).",
                 afirmacao: "afirmação"
             },
             {
