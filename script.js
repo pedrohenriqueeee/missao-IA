@@ -86,6 +86,15 @@ function mostraAlternativas(){
     for(const alternativa of perguntaAtual.alternativas) {
         const botaoAlternativas = document.createElement("button");
         botaoAlternativas.textContent = alternativa.texto;
+        // Adiciona estilo aos botões diretamente no JavaScript
+        botaoAlternativas.style.borderRadius = "15px";
+        botaoAlternativas.style.backgroundColor = "#008cff";
+        botaoAlternativas.style.color = "#D7F9FF";
+        botaoAlternativas.style.border = "none";
+        botaoAlternativas.style.padding = "10px 20px";
+        botaoAlternativas.style.margin = "5px";
+        botaoAlternativas.style.cursor = "pointer";
+        
         botaoAlternativas.addEventListener("click", () => respostaSelecionada(alternativa));
         caixaAlternativas.appendChild(botaoAlternativas);
     }
