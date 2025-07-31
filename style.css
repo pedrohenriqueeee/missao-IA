@@ -2,7 +2,7 @@
     --cor-fundo: #01080E ;
     --cor-principal: #0B0D20 ;
     --cor-secundaria: #212333; 
-    --cor-destaque: #063e98;
+    --cor-destaque: #1900f7;
     --cor-texto: #D7F9FF;
 
 }
@@ -16,15 +16,12 @@ body {
     min-height: 100vh;
 }
 
-.caixa-perguntas {
-    background-color: white;
-    color: black;
-    padding: 15px 20px;
-    margin: 20px auto;
-    border-radius: 20px; /* deixa o balão arredondado */
-    max-width: 90%;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* sombra leve para dar destaque */
-    font-size: 1.1rem;
+.caixa-principal{
+    background-color: var(--cor-principal);
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;
 }
 
 h1{
