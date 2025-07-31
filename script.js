@@ -23,10 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Criado em 1891 por James Naismith, um professor canadense nos EUA. A ideia era um esporte indoor para o inverno; usava-se uma bola de futebol e cestas de pêssego",
-
-
-
-
+               
                 afirmacao: "afirmação"
             },
             {
