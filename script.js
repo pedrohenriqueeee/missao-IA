@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "O basquete foi criado em 1891 por James Naismith nos EUA. Começou como um jogo indoor com cestas de pêssego. Com o tempo, cresceu e se tornou um dos esportes mais populares do mundo, com destaque para a NBA e estrelas como Michael Jordan, Kobe Bryant e LeBron James",
         alternativas: [
             {
                 texto: "Você conhece o Basquete?",
