@@ -46,7 +46,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "No basquete, existem diferentes tipos de arremesso que valem de 1 a 3 pontos, dependendo da distância. Na defesa, o objetivo é impedir o ataque adversário por meio de roubos de bola e bloqueios.",
         alternativas: [
             {
                 texto: " Tipos de Arremesso: Lance livre (1 ponto), arremesso dentro da linha de 3 (2 pontos) e fora da linha de 3 (3 pontos).",
@@ -59,7 +59,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "As regras do basquete proíbem empurrões, agarrões e outras infrações físicas, que resultam em faltas acumuladas. Vence a equipe que tiver mais pontos ao término do tempo regulamentar. ",
         alternativas: [
             {
                 texto: "Regras de Faltas: Jogadores não podem empurrar, segurar ou cometer infrações físicas, faltas acumulam.",
