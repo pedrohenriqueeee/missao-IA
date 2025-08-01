@@ -33,11 +33,11 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "No basquete, os jogadores devem driblar para se movimentar com a bola e utilizar passes para avançar em quadra e criar jogadas em equipe.",
         alternativas: [
             {
                 texto: "Drible: Jogadores precisam quicar a bola no chão para se movimentar com ela.",
-                afirmacao: "afirmação"
+                afirmacao: "afirmação",
             },
             {
                 texto: "Passes: Passar a bola entre os companheiros para avançar e criar chances.",
